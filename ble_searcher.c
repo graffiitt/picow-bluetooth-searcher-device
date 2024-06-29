@@ -91,7 +91,7 @@ int8_t search_device(bd_addr_t addr)
     return 0;
 }
 
-void ble_scan_devices(void)
+static void cleaning_devices_struct()
 {
     deviceCount = 0;
     bd_addr_t ad = {0, 0, 0, 0, 0, 0};
@@ -104,6 +104,11 @@ void ble_scan_devices(void)
             devices[i].name[j] = '\0';
         }
     }
+}
+
+void ble_scan_devices(void)
+{
+    cleaning_devices_struct();
 
     gap_set_scan_parameters(1, 48, 48);
     gap_start_scan();

@@ -21,7 +21,7 @@ static btstack_packet_callback_registration_t hci_event_callback_registration;
 static void packet_handler_scanner(uint8_t packet_type, uint16_t channel, uint8_t *packet, uint16_t size);
 static void device_add(bd_addr_t address, char *name, uint8_t size_name);
 static int8_t search_device(bd_addr_t addr);
-
+static void cleaning_devices_struct();
 
 void ble_scan_devices(void);
 #endif
