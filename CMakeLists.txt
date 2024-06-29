@@ -42,7 +42,7 @@ target_include_directories(${PROJECT_NAME} PRIVATE
     ${CMAKE_CURRENT_LIST_DIR}
     )
 
-    target_compile_definitions(${PROJECT_NAME} PRIVATE
+target_compile_definitions(${PROJECT_NAME} PRIVATE
     RUNNING_AS_CLIENT=1
 )
 
