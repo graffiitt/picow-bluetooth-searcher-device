@@ -1,0 +1,52 @@
+Advertisement (legacy) event: evt-type 0, addr-type 1, addr C3:41:78:56:9D:65, rssi -47, data[22] 03 19 41 03 02 01 06 03 03 0D 18 0A 09 35 32 37 33 31 2D 31 31 33 
+    Appearance: 341
+    Flags: LE General Discoverable Mode; BR/EDR Not Supported; 
+    Complete List of 16-bit Service Class UUIDs: 180D 
+    Complete Local Name: 52731-113
+
+
+
+
+
+Advertisement (legacy) event: evt-type 4, addr-type 1, addr C3:41:78:56:9D:65, rssi -47, data[14] 0D FF FF FF 88 00 FB CD 71 4E 00 01 00 76 
+
+
+Advertisement (legacy) event: evt-type 0, addr-type 1, addr 46:2B:12:DE:58:5A, rssi -95, data[17] 02 01 1A 02 0A 0C 0A FF 4C 00 10 05 78 1C D4 D0 76 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+    Tx Power Level: 12 dBm
+
+
+Advertisement (legacy) event: evt-type 4, addr-type 1, addr 46:2B:12:DE:58:5A, rssi -91, data[0] 
+
+Advertisement (legacy) event: evt-type 3, addr-type 1, addr C1:82:20:D6:F6:D3, rssi -88, data[8] 07 FF 4C 00 12 02 00 01 
+
+
+Advertisement (legacy) event: evt-type 3, addr-type 1, addr 4C:3F:44:00:84:49, rssi -47, data[17] 02 01 1A 0D FF 4C 00 16 08 00 9F AF 0E 79 45 54 E7 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+
+
+Advertisement (legacy) event: evt-type 0, addr-type 1, addr 56:E7:19:A4:37:00, rssi -45, data[18] 02 01 1A 02 0A 0C 0B FF 4C 00 10 06 06 1D 5E 76 D7 38 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+    Tx Power Level: 12 dBm
+
+
+Advertisement (legacy) event: evt-type 4, addr-type 1, addr 56:E7:19:A4:37:00, rssi -45, data[0] 
+
+Advertisement (legacy) event: evt-type 0, addr-type 1, addr 48:EA:49:DF:D4:26, rssi -45, data[18] 02 01 1A 02 0A 0C 0B FF 4C 00 10 06 06 1D 5E 76 D7 38 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+    Tx Power Level: 12 dBm
+
+
+Advertisement (legacy) event: evt-type 4, addr-type 1, addr 48:EA:49:DF:D4:26, rssi -42, data[0] 
+
+Advertisement (legacy) event: evt-type 0, addr-type 0, addr 40:16:3B:BB:C1:04, rssi -93, data[31] 02 01 1E 1B FF 75 00 42 04 01 40 4E 40 16 3B BB C1 04 42 16 3B 3F C1 03 01 00 00 00 00 00 00 
+    Flags: LE General Discoverable Mode; BR/EDR Not Supported; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+
+
+Advertisement (legacy) event: evt-type 3, addr-type 1, addr 4C:3F:44:00:84:49, rssi -45, data[17] 02 01 1A 0D FF 4C 00 16 08 00 9F AF 0E 79 45 54 E7 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+
+
+Advertisement (legacy) event: evt-type 0, addr-type 1, addr 56:E7:19:A4:37:00, rssi -47, data[18] 02 01 1A 02 0A 0C 0B FF 4C 00 10 06 06 1D 5E 76 D7 38 
+    Flags: LE General Discoverable Mode; Simultaneous LE and BR/EDR to Same Device Capable (Controller); Simultaneous LE and BR/EDR to Same Device Capable (Host); 
+    Tx Power Level: 12 dBm
